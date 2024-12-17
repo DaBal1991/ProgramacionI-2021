@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645051762 source:c:\users\damia\desktop\final programacion - damian agustin baluja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

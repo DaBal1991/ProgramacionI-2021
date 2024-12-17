@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620075600 source:c:\users\damia\desktop\switch ejercicio 3\main.c
+	<stdio.h>
+	<stdlib.h>
+

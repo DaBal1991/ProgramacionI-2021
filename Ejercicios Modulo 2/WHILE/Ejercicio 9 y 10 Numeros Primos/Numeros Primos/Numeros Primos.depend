@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621974730 source:c:\users\damia\desktop\numeros primos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

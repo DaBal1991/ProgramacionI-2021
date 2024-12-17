@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620687082 source:c:\users\damia\desktop\ejercicio 15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

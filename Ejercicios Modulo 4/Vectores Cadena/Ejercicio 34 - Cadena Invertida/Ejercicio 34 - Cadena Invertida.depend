@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631655293 source:c:\users\damia\mi unidad\utn-inspt\informatica aplicada\año 2021\programacion i\ejercicios modulo 4\ejercicio 34 - cadena invertida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

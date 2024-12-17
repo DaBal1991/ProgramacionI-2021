@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644553175 source:c:\users\damia\desktop\practica final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
